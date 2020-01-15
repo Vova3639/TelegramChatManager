@@ -4,7 +4,7 @@
 
 -----------------------------------
 
-**~ Telegram Bot «LanosClubBot» ~**1
+~ Telegram Bot «LanosClubBot» ~
 
 -----------------------------------
 
