@@ -86,7 +86,9 @@
 	В папке logs -> global_user_log.txt хранится глобальный лог всех обращений к боту.
 
 Файл **message.cfg**
+
 ![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
 
 Файл **IntervalsAndPhrases.txt**
+
 ![screen2](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot2.jpg)
